@@ -1,8 +1,8 @@
 # Text Summarization Project
 
 ## WorkFlows
-
-1. Update config.yaml
+Steps:
+1.  Update config.yaml
 2. Update params.yaml
 3. Update entity
 4. Update the configuration manager in src confg
