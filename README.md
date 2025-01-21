@@ -1,5 +1,11 @@
 # Text Summarization Project
 
+
+In this project, I fine-tune a pre-trained Pegasus model for the task of text summarization. Using the HuggingFace Trainer API, I train the model on a dataset of text documents and their summaries to enhance its ability to generate concise and meaningful summaries. The goal is to leverage the power of a state-of-the-art transformer model, Pegasus, which is designed for sequence-to-sequence tasks, to improve text summarization performance.
+
+I have used Samsum Dataset for this project.
+
+
 ## WorkFlows
 Steps:
 1.  Update config.yaml
